@@ -2,6 +2,13 @@
 
 An end-to-end Python pipeline for upscaling classic anime videos using **Real-CUGAN, Vulkan GPU acceleration, and FFmpeg**. Designed to run on Google Colab or Kaggle GPU runtimes, including the NVIDIA Tesla T4.
 
+## 🎬 Upscaling Demo ( Left screen is Upscaled ) 
+
+Watch the before-and-after comparison of the original video and the Real-CUGAN upscaled output. 
+
+▶️ **[Watch the Full Video Comparison](https://drive.google.com/file/d/1KZDo8ykAhvaM072ylg5CFrzwAZYXv--q/view?usp=sharing)**
+
+
 ## 📌 Overview
 
 *Ramayana: The Legend of Prince Rama* (1992) is a classic animated film whose digital copies may contain low-resolution frames, compression artifacts, and visual noise.
